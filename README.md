@@ -1,4 +1,4 @@
-# Fashion Recommender System
+# Visual Fashion Search System
 
 A content-based fashion recommendation system built using Deep Learning and Computer Vision. The application recommends visually similar fashion products based on an uploaded image.
 
