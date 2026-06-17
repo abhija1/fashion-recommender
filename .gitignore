@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+tfenv312/
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
+
+# Dataset folders
+images/
+uploads/
+test sample/
+
+# Large generated files
+embeddings.pkl
+filenames.pkl
+
+# Model files (if you add them later)
+*.h5
+*.keras
+*.ckpt
+*.pb
+
+# Logs
+*.log
+
+# Environment variables
+.env
